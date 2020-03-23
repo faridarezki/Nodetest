@@ -20,3 +20,4 @@
 - [X] envoi du lien sur Zoom ou mp slack
 
 - [x] installation de npx version 6.13.4
+- [x] rajout module shalk
