@@ -15,9 +15,9 @@ app.get('/api/user',(req,res)=>{
 		tableau:{
 		name:"inconnu",
 		vrified:true,
-	birthdate:"01/01/1111",
+	birthdate:new Date (2019, 3,17),
 		verified:false,
-		freinds: []
+		freinds: ["farid","farid"],
 		}
 
 	});
