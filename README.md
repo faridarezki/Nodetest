@@ -1,6 +1,15 @@
-# Nodetest
-# 1 ce projet est pour un test 
-# 2 téléchargement de projet Nodetest avec git à partir  de github (origin)
-# 3 utilisation de la commande git pull
-# 4 j'ai supprimer le fichier videos.html
-# 5 une modif
+.[]création projet node
+ .[]création projet git (avec commit réguliers) 
+ .[]installation express 
+ .[]création index.html avec dedans :   
+  		.[] html    
+  		.[] css ( dans une feuille appart ) avec les clés :
+  		.[] une image stockee a coté du fichier html ,et appelée dedans
+.[] une route "/api/user" qui renvoie un objet json avec les clés
+    .[] name (string)
+   .[] verified (bool)
+    .[] birthdate (Date)
+    .[] friends (Array)
+.[]publication du projet sur github
+après avoir terminé
+.[]envoi du lien sur Zoom ou mp slack
