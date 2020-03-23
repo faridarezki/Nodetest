@@ -1,6 +1,6 @@
-- [ ] création projet node
+- [ x] création projet node
 
-- [ ] création projet git (avec commit réguliers) 
+- [x ] création projet git (avec commit réguliers) 
 
 - [ ] installation express 
 
